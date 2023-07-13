@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'hodeiastep1'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6B233D734CA84AF68D4E5C2F04D21D35 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AD94C10C28DB4234819148829A4F8A0D }}
           package: .
